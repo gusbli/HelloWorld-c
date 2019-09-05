@@ -1,6 +1,7 @@
 # editor project files
 *.sublime-project
 *.sublime-workspace
+# *.cproject
 
 # Prerequisites
 *.d
